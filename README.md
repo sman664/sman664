@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sman664
-- 👀 I’m interested in game hacking, game development, cloud services and a bit of UI development 
+- 👀 I’m interested in game hacking, game development, cloud services and a bit of UI/UX development 
 - 🌱 I’m currently learning the fundamentals of cloud and all its services from the biggest cloud service providers (AWS, Google Cloud, MS Azure)
 - 💞️ I’m looking to collaborate on projects that are related to the cloud and involve backend Python with frontend Javascript
 - 📫 How to reach me ...
