@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sman664
-- 👀 I’m interested in game hacking, game development, cloud services and a bit of UI/UX development 
+- 👀 I’m interested in UI/UX development, game development, cloud services and a bit of game hacking
 - 🌱 I’m currently learning the fundamentals of cloud and all its services from the biggest cloud service providers (AWS, Google Cloud, MS Azure)
-- 💞️ I’m looking to collaborate on projects that are related to the cloud and involve backend NodeJS with frontend Javascript Frameworks. I enjoy doing C/C++ and Python for my hobby projects though!
+- 💞️ I’m looking to collaborate on projects that are related to the cloud and involve backend NodeJS with frontend Javascript Frameworks. I enjoy doing C/C++ and Python for my hobby projects as a way to learn!
 - 📫 How to reach me ...
 -   My Email:     saman.laleh@aol.com
 
